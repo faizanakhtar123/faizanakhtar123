@@ -84,20 +84,16 @@
 ## 📈 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizanakhtar123&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=faizanakhtar123&theme=tokyonight&hide_border=true" height="160" />
+  <!-- ✔ Main Stats (Working Mirror) -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=faizanakhtar123&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+
+  <!-- ✔ Streak Stats (Working Mirror) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=faizanakhtar123&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanakhtar123&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faizanakhtar123&theme=algolia&no-frame=true&margin-w=10&row=1" />
+  <!-- ✔ Top Languages (Working Mirror) -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=faizanakhtar123&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
