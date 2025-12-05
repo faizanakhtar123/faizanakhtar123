@@ -13,8 +13,8 @@
 ## 🧑‍💻 About Me  
 
 - 🎓 B.Tech in **Computer Science (AIML)**  
-- 🌐 Currently learning: **Backend & DSA**  
-- 🔍 Interested in **Web Development, Open Source & Basic AI/ML Concepts**  
+- 🌐 Currently learning: **Backend, DSA & Python for ML**  
+- 🔍 Interested in **Web Development, Open Source & AI/ML Basics**  
 - 🧠 I like understanding the *“why”* behind code — not just copying it  
 - 🎧 Most productive with **music + VS Code** open  
 
@@ -22,8 +22,9 @@
 
 ## 🌱 What I’m Working On Right Now
 
-- Building small **frontend projects** to strengthen React & UI skills  
+- Building **frontend projects** to strengthen React & UI skills  
 - Practicing **Java DSA**  
+- Learning **NumPy, Pandas & basic ML models in Python**  
 - Exploring **open source** — recently contributed to *ListenBrainz (MetaBrainz)*  
 
 ---
@@ -60,6 +61,15 @@
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🤖 AI / ML & Data Science  
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
 ### ⚙️ Tools  
@@ -96,6 +106,7 @@
 
 - ✔️ Contributed to **ListenBrainz** (MetaBrainz Open Source Project)  
 - ✔️ Becoming more confident with **React components & props**  
+- ✔️ Learning **Python data handling & ML basics**  
 - ✔️ Writing cleaner, more readable code — not just “working code”  
 
 ---
@@ -107,4 +118,4 @@
 ---
 
 ## 😄  
-I break things until they work 😄  
+I break things until they work 😄
