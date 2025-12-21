@@ -81,20 +81,8 @@
 
 ---
 
-## 📈 GitHub Overview
-
-<p align="center">
-  <!-- ✔ Main Stats (Working Mirror) -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=faizanakhtar123&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-
-  <!-- ✔ Streak Stats (Working Mirror) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=faizanakhtar123&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <!-- ✔ Top Languages (Working Mirror) -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=faizanakhtar123&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
+📊 GitHub Stats
+<p align="center"> <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=faizanakhtar123&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=faizanakhtar123&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=faizanakhtar123&layout=compact&theme=tokyonight&hide_border=true"/> </p>
 
 ---
 
