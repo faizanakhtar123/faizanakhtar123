@@ -9,8 +9,7 @@
 ---
 
 ## About
-
-Building web applications with React and exploring machine learning. Recently contributed to ListenBrainz (MetaBrainz). Focused on writing clean code and solving problems.
+ Focused on writing clean code and solving problems.
 
 **Currently:** Learning TypeScript, mastering React Hooks, practicing DSA in Java
 
