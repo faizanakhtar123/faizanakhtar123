@@ -11,7 +11,7 @@
 ## About
  Focused on writing clean code and solving problems.
 
-**Currently:** Learning TypeScript, mastering React Hooks, practicing DSA in Java
+**Currently:** practicing DSA in Java
 
 ---
 
