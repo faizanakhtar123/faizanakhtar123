@@ -1,6 +1,6 @@
 # Hi, I'm Faizan Akhtar 👋
 
-2nd Year CSE (AIML) Student | Web Developer | Open Source Contributor
+3rd Year CSE (AIML) Student | Web Developer | Open Source Contributor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizanakhtar123/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:faizanakhtar9024@gmail.com)
